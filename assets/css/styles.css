@@ -1,0 +1,20 @@
+nav , ul{
+    list-style-type: none;
+}
+
+
+nav li{
+    display:inline;
+}
+
+span{
+    color:green;
+}
+
+b{
+    color:red;
+}
+
+.container{
+text-align: center;
+}
